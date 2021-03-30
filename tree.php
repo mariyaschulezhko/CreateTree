@@ -53,7 +53,7 @@ $pages = [
     ],
 ];
 
-//$pages
+
 function createTree($pages){
     $parents_arr = [];
     foreach($pages as $key => $item){
